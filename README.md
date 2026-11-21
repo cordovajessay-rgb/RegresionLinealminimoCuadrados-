@@ -14,7 +14,7 @@
 #3. El coeficiente  determinacion  (r2)
  * double r2 = pearsonR * pearsonR;
    
-#EJECUCCION (MAIN.JAVA)
+#EJECUCCION ( MAIN.JAVA)
 
 *Donde se ingresaron valores desde consola: la cual se pueden modificar
 

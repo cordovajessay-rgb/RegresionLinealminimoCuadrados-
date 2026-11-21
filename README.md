@@ -15,7 +15,9 @@
  * double r2 = pearsonR * pearsonR;
    
 #EJECUCCION (MAIN.JAVA)
+
 *Donde se ingresaron valores desde consola: la cual se pueden modificar
+
 * double[] x = {2, 4, 3, 4, 5};
   double[] y = {3.1, 5.9, 7.2, 3.8, 7.1};
   *la cual llama a las funciones desde la clase principal e imprimiendo los resultados

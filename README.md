@@ -14,7 +14,7 @@
 #3. El coeficiente  determinacion  (r2)
  * double r2 = pearsonR * pearsonR;
    
-#EJECUCCION ( MAIN.JAVA)
+# EJECUCCION ( MAIN.JAVA)
 
 *Donde se ingresaron valores desde consola: la cual se pueden modificar
 
@@ -22,7 +22,7 @@
   double[] y = {3.1, 5.9, 7.2, 3.8, 7.1};
   *la cual llama a las funciones desde la clase principal e imprimiendo los resultados
   
-#RESULTADOS:
+# RESULTADOS:
 
 *Modelo obtenido: Y = 85.1774 + 0.8731X
 Coeficiente de Pearson (r): 0.5278

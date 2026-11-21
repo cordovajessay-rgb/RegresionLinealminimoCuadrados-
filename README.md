@@ -23,6 +23,7 @@
   *la cual llama a las funciones desde la clase principal e imprimiendo los resultados
   
 #RESULTADOS:
+
 *Modelo obtenido: Y = 85.1774 + 0.8731X
 Coeficiente de Pearson (r): 0.5278
 Coeficiente de Determinación (r2): 0.2786

@@ -1,6 +1,6 @@
 # RegresionLinealminimoCuadrados-
 *Este trabajo implementa el modelo matemático de regresión lineal por mínimo cuadrados (MCO). Para cálculos de la ecuación de la recta para evaluar la calidad y la fuerza del programa mediante el Coeficiente de correlación de Pearson (r) y el Coeficiente de determinación .
-# CLASE PRINCIPAL (regresion lineal.java)
+# CLASE PRINCIPAL ( regresion lineal.java)
 *En esta clase se nos indica  completar el codigo asignado por el docente.
 
 #1. EL cálculo de regresión lineal por el método de mínimo cuadrados la cual se nos da la formula:
